@@ -25,7 +25,7 @@ This repository contains the code accompanying the paper "PIN-a-Boo: Leveraging 
   - [Alternative visuals](clustering/mapping-different_visuals.py): Produces output in a different visual style.
  
 - **Other scripts**:
-  - [Absolute difference](other_pys/mapping.py): Uses contour detection to show the absolute difference between two frames.
+  - [Absolute difference](other_pys/absdiff.py): Uses contour detection to show the absolute difference between two frames.
 
 - **Assets**:
   - [Development](assets/test): Contains pictures and video used for tests during the development.
